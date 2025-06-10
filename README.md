@@ -30,7 +30,3 @@ This repository contains a Power BI dashboard that provides interactive insights
 - DAX (Data Analysis Expressions)
 - Data modeling & visualization best practices
 
-## 📝 Notes
-
-- This project was created as a learning exercise by following [this YouTube tutorial](https://www.youtube.com/watch?v=5se3nFK_dFo).
-- The data used is either dummy or anonymized for demo purposes.
